@@ -1,6 +1,6 @@
 # Conoce-prueba-practica_
 
-![imagen](imagenes/image.jpg)
+![imagen](https://github.com/Beapsp/Conoce_Prueba_Practica_/blob/main/imagenes/Image.jpg)
 
 ## OBJETIVO:
 Este proyecto se ha llevado a cabo con dos claros objetivos, por un lado analizar datos para dar a conocer el deporte del crossfit así como para dar visibilidad a las mujeres que lo practican, y por otro motivar y facilitar información al usuario para que lo practique.
@@ -51,9 +51,9 @@ Para poder recomendar al usuario todos los boxes de Crossfit cercanos a la direc
 - Una carpeta "src" con los archivos que contienen las funciones utilizadas en toda la ejecución del proyecto.
 - Un archivo "Streamlit" donde se muestra un video de la presentación llevada a cabo. Se adjuntan imágenes a continuación:
 
-![imagen1](imagenes/streamlit2.jpg)
-![imagen2](imagenes/streamlit3.jpg)
-![imagen3](imagenes/streamlit4.jpg)
+![imagen1](https://github.com/Beapsp/Conoce_Prueba_Practica_/blob/main/imagenes/streamlit2.JPG)
+![imagen2](https://github.com/Beapsp/Conoce_Prueba_Practica_/blob/main/imagenes/streamlit3.JPG)
+![imagen3](https://github.com/Beapsp/Conoce_Prueba_Practica_/blob/main/imagenes/streamlit4.JPG)
 
 
 
