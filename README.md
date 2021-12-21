@@ -43,7 +43,8 @@ Para poder recomendar al usuario todos los boxes de Crossfit cercanos a la direc
 - Una carpeta "imágenes" con todas las imágenes utilizadas a lo largo del proyecto.
 - Una carpeta "Notebooks" con los siguientes archivos:
     - Un jupyter notebook de limpieza de datos --> "cleaning_cross.
-    - Un jupyter notebook de visualización --> "visualization".
+    - Un jupyter notebook de visualización de la competición de los Games --> "visualization_GAMES".
+    - - Un jupyter notebook de visualización de la competición de los Open --> "visualization_OPEN".
     - Un jupyter notebook con el scrapeo web realizado --> "web_scraping-videos"
     - Un jupyter notebook con la llamada a la Api de Google para extraer las coordenas de la dirección deseada --> "coordenadas geopy"
 - Una carpeta "pages" con todos los archivos.py necesarios para visualizar streamlit
@@ -81,4 +82,4 @@ Para poder recomendar al usuario todos los boxes de Crossfit cercanos a la direc
         [streamlit](https://docs.streamlit.io/)
         """)
 
-![imagenn](imagenes/streamlit1.jpg)       
+![imagenn](https://github.com/Beapsp/Conoce_Prueba_Practica_/blob/main/imagenes/streamlit1.JPG)       
