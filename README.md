@@ -1,4 +1,4 @@
-# Conoce-prueba-practica_Crossfit
+# Conoce-prueba-practica_
 
 ![imagen](imagenes/image.jpg)
 
