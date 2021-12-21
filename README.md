@@ -82,4 +82,4 @@ Para poder recomendar al usuario todos los boxes de Crossfit cercanos a la direc
         [streamlit](https://docs.streamlit.io/)
         """)
 
-![imagenn](https://github.com/Beapsp/Conoce_Prueba_Practica_/blob/main/imagenes/streamlit1.JPG)       
+      
